@@ -1,0 +1,10 @@
+{
+  "require": {
+      "google/cloud-speech": "^1.0.1",
+      "google/gax": "^1.1",
+       "grpc/grpc": "^1.4",
+       "google/protobuf": "^v3.3.0",
+      "google/auth": "^1.8",
+      "phpseclib/phpseclib": "^2.0"
+  }
+}
